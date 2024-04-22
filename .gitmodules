@@ -1,0 +1,33 @@
+[submodule "react-trello-clone"]
+	path = react-trello-clone
+	url = https://github.com/bamcerr/react-trello-clone.git
+[submodule "react-animations"]
+	path = react-animations
+	url = https://github.com/bamcerr/react-animations.git
+[submodule "react-crypto-tracker"]
+	path = react-crypto-tracker
+	url = https://github.com/bamcerr/react-crypto-tracker.git
+[submodule "react-typescript"]
+	path = react-typescript
+	url = https://github.com/bamcerr/react-typescript.git
+[submodule "react-styled-components"]
+	path = react-styled-components
+	url = https://github.com/bamcerr/react-styled-components.git
+[submodule "react-state-management"]
+	path = react-state-management
+	url = https://github.com/bamcerr/react-state-management.git
+[submodule "react-nomflix"]
+	path = react-nomflix
+	url = https://github.com/bamcerr/react-nomflix.git
+[submodule "react-for-beginner"]
+	path = react-for-beginner
+	url = https://github.com/bamcerr/react-for-beginner.git
+[submodule "react-movie-app"]
+	path = react-movie-app
+	url = https://github.com/bamcerr/react-movie-app.git
+[submodule "react-for-starter"]
+	path = react-for-starter
+	url = https://github.com/bamcerr/react-for-starter.git
+[submodule "react-hooks"]
+	path = react-hooks
+	url = https://github.com/bamcerr/react-hooks.git
