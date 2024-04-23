@@ -31,3 +31,6 @@
 [submodule "react-hooks"]
 	path = react-hooks
 	url = https://github.com/bamcerr/react-hooks.git
+[submodule "react-router-6"]
+	path = react-router-6
+	url = https://github.com/bamcerr/react-router-6.git
