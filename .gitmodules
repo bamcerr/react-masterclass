@@ -34,3 +34,6 @@
 [submodule "react-router-6"]
 	path = react-router-6
 	url = https://github.com/bamcerr/react-router-6.git
+[submodule "gatsby-sticker-pack"]
+	path = gatsby-sticker-pack
+	url = https://github.com/bamcerr/gatsby-sticker-pack.git
